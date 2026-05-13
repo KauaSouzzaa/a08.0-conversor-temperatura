@@ -34,5 +34,6 @@ main = do
 
                 putStr (printf "Temperatura em Fahrenheit: %.2f\n" fah :: String)
                 putStr (printf "Temperatura em Kelvin: %.2f\n" kel :: String)
-       
-            
+
+
+
